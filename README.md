@@ -1,6 +1,6 @@
 # ash — A Minimal x86-64 Assembly Shell
 
-A tiny static shell written in pure NASM assembly for Linux. No libc, no dependencies.
+A tiny static shell written in pure NASM assembly for Linux. 
 
 > Expect this README to chenge. I'm going to rewrite it in my usual style later.
 
